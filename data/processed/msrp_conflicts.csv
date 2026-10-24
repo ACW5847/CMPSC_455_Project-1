@@ -1,0 +1,115 @@
+make,model,model_year,configuration,original_msrp,reference_type,source_url,collected_at
+Ford,Explorer,2007,2WD 4-Door V6 Limited,31775,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,2WD 4-Door V6 XLT,25370,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,2WD 4-Door V8 Limited,33070,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,2WD 4-Door V8 XLT,26665,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V6 Limited,34070,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V6 XLT,27665,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V8 Limited,35365,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V8 XLT,28960,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,2WD 4-Door V6 Limited,26175,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,2WD 4-Door V6 XLT,24390,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,2WD 4-Door V8 Limited,27470,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,2WD 4-Door V8 XLT,25385,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V6 Limited,28670,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V6 XLT,26885,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V8 Limited,29965,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2007,4WD 4-Door V8 XLT,28180,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2007,2026-10-23T21:46:15-04:00
+Ford,Explorer,2008,4WD 4-Door V6 Limited,35375,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,4WD 4-Door V6 XLT,28815,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,4WD 4-Door V8 Limited,36690,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,4WD 4-Door V8 XLT,30125,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V6 Limited,33055,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V6 XLT,26495,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V8 Limited,34365,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V8 XLT,27800,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,4WD 4-Door V6 Limited,30015,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,4WD 4-Door V6 XLT,27925,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,4WD 4-Door V8 Limited,31320,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,4WD 4-Door V8 XLT,29235,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V6 Limited,27490,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V6 XLT,25400,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V8 Limited,28800,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2008,RWD 4-Door V8 XLT,26710,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2008,2026-10-23T21:46:20-04:00
+Ford,Explorer,2009,4WD 4-Door V6 Limited,37870,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,4WD 4-Door V6 XLT,30790,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,4WD 4-Door V8 Limited,39180,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,4WD 4-Door V8 XLT,32100,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V6 Limited,35550,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V6 XLT,28470,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V8 Limited,36860,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V8 XLT,29780,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,4WD 4-Door V6 Limited,33835,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,4WD 4-Door V6 XLT,29985,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,4WD 4-Door V8 Limited,35145,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,4WD 4-Door V8 XLT,31295,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V6 Limited,31310,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V6 XLT,27460,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V8 Limited,32620,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2009,RWD 4-Door V8 XLT,28770,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2009,2026-10-23T21:46:25-04:00
+Ford,Explorer,2010,4WD 4-Door Limited,38600,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,4WD 4-Door XLT,31600,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,AWD 4-Door Limited,38600,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,RWD 4-Door Limited,36280,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,RWD 4-Door XLT,29280,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,4WD 4-Door Limited,35590,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,4WD 4-Door XLT,30735,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,AWD 4-Door Limited,35590,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,RWD 4-Door Limited,33065,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Ford,Explorer,2010,RWD 4-Door XLT,28210,listed_configuration,https://www.thecarconnection.com/specifications/ford_explorer_2010,2026-10-23T21:46:29-04:00
+Toyota,Corolla,2019,SE CVT,20645,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2019,2026-10-23T21:51:53-04:00
+Toyota,Corolla,2019,SE Manual,21865,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2019,2026-10-23T21:51:53-04:00
+Toyota,Corolla,2019,XSE CVT,22880,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2019,2026-10-23T21:51:53-04:00
+Toyota,Corolla,2019,SE CVT,21240,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2019,2026-10-23T21:51:53-04:00
+Toyota,Corolla,2019,SE Manual,20140,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2019,2026-10-23T21:51:53-04:00
+Toyota,Corolla,2019,XSE CVT,24240,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2019,2026-10-23T21:51:53-04:00
+Toyota,Corolla,2020,Nightshade CVT,22750,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2020,SE CVT,22050,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2020,SE Manual,22750,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2020,XSE CVT,25550,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2020,Nightshade CVT,22290,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2020,SE CVT,21390,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2020,SE Manual,20290,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2020,XSE CVT,24340,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2020,2026-10-23T21:51:57-04:00
+Toyota,Corolla,2021,Nightshade CVT,23175,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2021,SE CVT,22475,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2021,SE Manual,23175,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2021,XSE CVT,25925,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2021,Nightshade CVT,22715,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2021,SE CVT,21815,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2021,SE Manual,20715,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2021,XSE CVT,24765,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2021,2026-10-23T21:52:02-04:00
+Toyota,Corolla,2022,SE CVT,22875,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2022,2026-10-23T21:52:06-04:00
+Toyota,Corolla,2022,SE Manual,23575,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2022,2026-10-23T21:52:06-04:00
+Toyota,Corolla,2022,XSE CVT,26325,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2022,2026-10-23T21:52:06-04:00
+Toyota,Corolla,2022,SE CVT,22265,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2022,2026-10-23T21:52:06-04:00
+Toyota,Corolla,2022,SE Manual,21165,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2022,2026-10-23T21:52:06-04:00
+Toyota,Corolla,2022,XSE CVT,25215,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2022,2026-10-23T21:52:06-04:00
+Toyota,Corolla,2023,SE CVT,24140,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2023,2026-10-23T21:52:11-04:00
+Toyota,Corolla,2023,XSE CVT,26850,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2023,2026-10-23T21:52:11-04:00
+Toyota,Corolla,2023,SE CVT,23155,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2023,2026-10-23T21:52:11-04:00
+Toyota,Corolla,2023,XSE CVT,26580,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2023,2026-10-23T21:52:11-04:00
+Toyota,Corolla,2024,Nightshade Edition CVT,25490,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2024,2026-10-23T21:52:15-04:00
+Toyota,Corolla,2024,SE CVT,24490,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2024,2026-10-23T21:52:15-04:00
+Toyota,Corolla,2024,XSE CVT,27150,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2024,2026-10-23T21:52:15-04:00
+Toyota,Corolla,2024,Nightshade Edition CVT,24505,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2024,2026-10-23T21:52:15-04:00
+Toyota,Corolla,2024,SE CVT,23505,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2024,2026-10-23T21:52:15-04:00
+Toyota,Corolla,2024,XSE CVT,26805,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2024,2026-10-23T21:52:15-04:00
+Toyota,Corolla,2025,SE CVT,24765,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2025,2026-10-23T21:52:20-04:00
+Toyota,Corolla,2025,XSE CVT,28040,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2025,2026-10-23T21:52:20-04:00
+Toyota,Corolla,2025,SE CVT,23780,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2025,2026-10-23T21:52:20-04:00
+Toyota,Corolla,2025,XSE CVT,27080,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2025,2026-10-23T21:52:20-04:00
+Toyota,Corolla,2026,SE CVT,25565,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2026,2026-10-23T21:52:24-04:00
+Toyota,Corolla,2026,XSE CVT,28840,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2026,2026-10-23T21:52:24-04:00
+Toyota,Corolla,2026,SE CVT,24580,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2026,2026-10-23T21:52:24-04:00
+Toyota,Corolla,2026,XSE CVT,27575,listed_configuration,https://www.thecarconnection.com/specifications/toyota_corolla_2026,2026-10-23T21:52:24-04:00
+Toyota,RAV4,2016,AWD 4-Door Limited,32910,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2016,2026-10-23T21:53:18-04:00
+Toyota,RAV4,2016,AWD 4-Door XLE,27670,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2016,2026-10-23T21:53:18-04:00
+Toyota,RAV4,2016,AWD 4-Door Limited,33610,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2016,2026-10-23T21:53:18-04:00
+Toyota,RAV4,2016,AWD 4-Door XLE,28370,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2016,2026-10-23T21:53:18-04:00
+Toyota,RAV4,2017,Limited AWD,32305,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2017,2026-10-23T21:53:22-04:00
+Toyota,RAV4,2017,SE AWD,30190,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2017,2026-10-23T21:53:22-04:00
+Toyota,RAV4,2017,XLE AWD,26900,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2017,2026-10-23T21:53:22-04:00
+Toyota,RAV4,2017,Limited AWD,34030,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2017,2026-10-23T21:53:22-04:00
+Toyota,RAV4,2017,SE AWD,32185,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2017,2026-10-23T21:53:22-04:00
+Toyota,RAV4,2017,XLE AWD,29030,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2017,2026-10-23T21:53:22-04:00

@@ -1,0 +1,84 @@
+make,model,model_year,configuration,original_msrp,reference_type,source_url,collected_at
+Toyota,Camry,2005,4-Door Sedan LE Automatic,20125,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan LE Manual,19295,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan LE V6 Automatic,22530,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan SE Automatic,20955,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan SE Manual,20125,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan SE V6 Automatic,23775,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan STD Automatic,19025,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan STD Manual,18195,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan XLE Automatic,22545,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,4-Door Sedan XLE V6 Automatic,25555,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Conv SE V6 Automatic,26480,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Conv SLE V6 Automatic,29750,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SE Automatic,20150,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SE Manual,19320,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SE V6 Automatic,21650,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SLE Automatic,23195,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SLE V6 Automatic,26195,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SPT Automatic,21645,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SPT Manual,20815,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Toyota,Camry,2005,2-Door Coupe SPT V6 Automatic,23145,listed_configuration,https://www.thecarconnection.com/specifications/toyota_camry_2005,2026-10-23T21:37:33-04:00
+Ford,F-150,2005,"Reg Cab 126"" FX4 4WD",31105,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 126"" STX",21315,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 126"" STX 4WD",26565,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 126"" XL",20475,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 126"" XL 4WD",25750,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 126"" XLT",23605,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 126"" XLT 4WD",28855,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 145"" XL",20780,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 145"" XL 4WD",26055,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 145"" XLT",23905,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab 145"" XLT 4WD",29160,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab Flareside 126"" FX4 4WD",31960,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab Flareside 126"" STX",23280,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab Flareside 126"" STX 4WD",27420,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab Flareside 126"" XLT",25565,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Reg Cab Flareside 126"" XLT 4WD",29710,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"SuperCrew 139"" FX4 4WD",35655,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"SuperCrew 139"" King Ranch",36590,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"SuperCrew 139"" King Ranch 4WD",40090,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"SuperCrew 139"" Lariat",33440,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"SuperCrew 139"" Lariat 4WD",36940,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"SuperCrew 139"" XLT",30375,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"SuperCrew 139"" XLT 4WD",33560,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 133"" FX4 4WD",33325,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 133"" Lariat",30745,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 133"" Lariat 4WD",34080,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 133"" STX",25560,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 133"" STX 4WD",28715,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 133"" XLT",28045,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 133"" XLT 4WD",31080,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" FX4 4WD",33630,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" Lariat",31050,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" Lariat 4WD",34385,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" STX",25865,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" STX 4WD",29020,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" XL",25210,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" XL 4WD",28360,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" XLT",28350,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 145"" XLT 4WD",31405,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 163"" XL",25510,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 163"" XL 4WD",28665,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 163"" XLT",28655,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab 163"" XLT 4WD",31685,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab Flareside 145"" FX4 4WD",34485,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab Flareside 145"" STX",26720,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab Flareside 145"" STX 4WD",29875,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab Flareside 145"" XLT",29205,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Ford,F-150,2005,"Supercab Flareside 145"" XLT 4WD",32235,listed_configuration,https://www.thecarconnection.com/specifications/ford_f-150_2005,2026-10-23T21:37:35-04:00
+Toyota,RAV4,2025,Hybrid LE AWD,32850,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Hybrid Limited AWD,41155,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Hybrid SE AWD,35545,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Hybrid Woodland AWD,36070,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Hybrid XLE AWD,34360,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Hybrid XLE Premium AWD,37250,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Hybrid XSE AWD,38510,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,LE AWD,31200,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,LE FWD,29800,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Limited AWD,39505,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,Limited FWD,38105,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,XLE AWD,32710,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,XLE FWD,31310,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,XLE Premium AWD,35600,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00
+Toyota,RAV4,2025,XLE Premium FWD,34200,listed_configuration,https://www.thecarconnection.com/specifications/toyota_rav4_2025,2026-10-23T21:37:42-04:00

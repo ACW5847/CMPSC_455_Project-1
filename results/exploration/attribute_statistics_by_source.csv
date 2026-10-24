@@ -1,0 +1,5 @@
+,listing_price,listing_price,listing_price,listing_price,listing_price,listing_price,mileage,mileage,mileage,mileage,mileage,mileage,model_year,model_year,model_year,model_year,model_year,model_year
+,count,mean,median,std,min,max,count,mean,median,std,min,max,count,mean,median,std,min,max
+source,,,,,,,,,,,,,,,,,,
+craigslist,675,9985.65,7900.0,7994.74,1.0,64000.0,675,127410.39,130557.0,57628.78,82.0,412353.0,675,2014.34,2014.0,5.48,2005.0,2026.0
+offerup,670,9478.05,6295.0,8505.6,1.0,51746.0,670,1976703.5,135083.5,47689506.65,97.0,1234543610.0,670,2011.16,2006.0,6.98,2005.0,2026.0

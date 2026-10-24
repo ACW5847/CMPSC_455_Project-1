@@ -1,0 +1,196 @@
+make,model,model_year,source_url,configurations,status
+Chevrolet,Equinox,2005,https://www.thecarconnection.com/specifications/chevrolet_equinox_2005,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_equin
+Chevrolet,Equinox,2006,https://www.thecarconnection.com/specifications/chevrolet_equinox_2006,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_equin
+Chevrolet,Equinox,2007,https://www.thecarconnection.com/specifications/chevrolet_equinox_2007,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_equin
+Chevrolet,Equinox,2005,https://www.thecarconnection.com/specifications/chevrolet_equinox_2005,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_equin
+Chevrolet,Equinox,2006,https://www.thecarconnection.com/specifications/chevrolet_equinox_2006,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_equin
+Chevrolet,Equinox,2007,https://www.thecarconnection.com/specifications/chevrolet_equinox_2007,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_equin
+Chevrolet,Equinox,2008,https://www.thecarconnection.com/specifications/chevrolet_equinox_2008,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_equin
+Chevrolet,Equinox,2005,https://www.thecarconnection.com/specifications/chevrolet_equinox_2005,4,ok
+Chevrolet,Equinox,2006,https://www.thecarconnection.com/specifications/chevrolet_equinox_2006,0,unexpected page title
+Chevrolet,Equinox,2007,https://www.thecarconnection.com/specifications/chevrolet_equinox_2007,4,ok
+Chevrolet,Equinox,2008,https://www.thecarconnection.com/specifications/chevrolet_equinox_2008,8,ok
+Chevrolet,Equinox,2009,https://www.thecarconnection.com/specifications/chevrolet_equinox_2009,10,ok
+Chevrolet,Equinox,2010,https://www.thecarconnection.com/specifications/chevrolet_equinox_2010,8,ok
+Chevrolet,Equinox,2011,https://www.thecarconnection.com/specifications/chevrolet_equinox_2011,8,ok
+Chevrolet,Equinox,2012,https://www.thecarconnection.com/specifications/chevrolet_equinox_2012,8,ok
+Chevrolet,Equinox,2013,https://www.thecarconnection.com/specifications/chevrolet_equinox_2013,8,ok
+Chevrolet,Equinox,2014,https://www.thecarconnection.com/specifications/chevrolet_equinox_2014,8,ok
+Chevrolet,Equinox,2015,https://www.thecarconnection.com/specifications/chevrolet_equinox_2015,9,ok
+Chevrolet,Equinox,2016,https://www.thecarconnection.com/specifications/chevrolet_equinox_2016,7,ok
+Chevrolet,Equinox,2017,https://www.thecarconnection.com/specifications/chevrolet_equinox_2017,7,ok
+Chevrolet,Equinox,2018,https://www.thecarconnection.com/specifications/chevrolet_equinox_2018,15,ok
+Chevrolet,Equinox,2019,https://www.thecarconnection.com/specifications/chevrolet_equinox_2019,17,ok
+Chevrolet,Equinox,2020,https://www.thecarconnection.com/specifications/chevrolet_equinox_2020,13,ok
+Chevrolet,Equinox,2022,https://www.thecarconnection.com/specifications/chevrolet_equinox_2022,8,ok
+Chevrolet,Equinox,2023,https://www.thecarconnection.com/specifications/chevrolet_equinox_2023,8,ok
+Chevrolet,Equinox,2024,https://www.thecarconnection.com/specifications/chevrolet_equinox_2024,8,ok
+Chevrolet,Equinox,2025,https://www.thecarconnection.com/specifications/chevrolet_equinox_2025,6,ok
+Chevrolet,Equinox,2026,https://www.thecarconnection.com/specifications/chevrolet_equinox_2026,6,ok
+Chevrolet,Malibu,2005,https://www.thecarconnection.com/specifications/chevrolet_malibu_2005,3,ok
+Chevrolet,Malibu,2006,https://www.thecarconnection.com/specifications/chevrolet_malibu_2006,6,ok
+Chevrolet,Malibu,2007,https://www.thecarconnection.com/specifications/chevrolet_malibu_2007,5,ok
+Chevrolet,Malibu,2008,https://www.thecarconnection.com/specifications/chevrolet_malibu_2008,5,ok
+Chevrolet,Malibu,2009,https://www.thecarconnection.com/specifications/chevrolet_malibu_2009,5,ok
+Chevrolet,Malibu,2010,https://www.thecarconnection.com/specifications/chevrolet_malibu_2010,4,ok
+Chevrolet,Malibu,2011,https://www.thecarconnection.com/specifications/chevrolet_malibu_2011,4,ok
+Chevrolet,Malibu,2012,https://www.thecarconnection.com/specifications/chevrolet_malibu_2012,6,ok
+Chevrolet,Malibu,2013,https://www.thecarconnection.com/specifications/chevrolet_malibu_2013,8,ok
+Chevrolet,Malibu,2014,https://www.thecarconnection.com/specifications/chevrolet_malibu_2014,7,ok
+Chevrolet,Malibu,2015,https://www.thecarconnection.com/specifications/chevrolet_malibu_2015,6,ok
+Chevrolet,Malibu,2016,https://www.thecarconnection.com/specifications/chevrolet_malibu_2016,7,ok
+Chevrolet,Malibu,2017,https://www.thecarconnection.com/specifications/chevrolet_malibu_2017,5,ok
+Chevrolet,Malibu,2018,https://www.thecarconnection.com/specifications/chevrolet_malibu_2018,5,ok
+Chevrolet,Malibu,2019,https://www.thecarconnection.com/specifications/chevrolet_malibu_2019,6,ok
+Chevrolet,Malibu,2020,https://www.thecarconnection.com/specifications/chevrolet_malibu_2020,5,ok
+Chevrolet,Malibu,2022,https://www.thecarconnection.com/specifications/chevrolet_malibu_2022,4,ok
+Chevrolet,Malibu,2023,https://www.thecarconnection.com/specifications/chevrolet_malibu_2023,4,ok
+Chevrolet,Malibu,2024,https://www.thecarconnection.com/specifications/chevrolet_malibu_2024,4,ok
+Chevrolet,Malibu,2025,https://www.thecarconnection.com/specifications/chevrolet_malibu_2025,4,ok
+Chevrolet,Silverado 1500,2005,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2005,37,ok
+Chevrolet,Silverado 1500,2006,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2006,46,ok
+Chevrolet,Silverado 1500,2007,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2007,42,ok
+Chevrolet,Silverado 1500,2008,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2008,44,ok
+Chevrolet,Silverado 1500,2009,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2009,41,ok
+Chevrolet,Silverado 1500,2010,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2010,35,ok
+Chevrolet,Silverado 1500,2011,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2011,35,ok
+Chevrolet,Silverado 1500,2012,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2012,35,ok
+Chevrolet,Silverado 1500,2013,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2013,35,ok
+Chevrolet,Silverado 1500,2014,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2014,56,ok
+Chevrolet,Silverado 1500,2015,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2015,56,ok
+Chevrolet,Silverado 1500,2016,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2016,54,ok
+Chevrolet,Silverado 1500,2017,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2017,50,ok
+Chevrolet,Silverado 1500,2018,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2018,54,ok
+Chevrolet,Silverado 1500,2019,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2019,49,ok
+Chevrolet,Silverado 1500,2020,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2020,41,ok
+Chevrolet,Silverado 1500,2021,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2021,36,ok
+Chevrolet,Silverado 1500,2022,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2022,38,ok
+Chevrolet,Silverado 1500,2023,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2023,38,ok
+Chevrolet,Silverado 1500,2024,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2024,38,ok
+Ford,Escape,2005,https://www.thecarconnection.com/specifications/ford_escape_2005,14,ok
+Ford,Escape,2006,https://www.thecarconnection.com/specifications/ford_escape_2006,14,ok
+Ford,Escape,2007,https://www.thecarconnection.com/specifications/ford_escape_2007,14,ok
+Ford,Escape,2008,https://www.thecarconnection.com/specifications/ford_escape_2008,11,ok
+Ford,Escape,2009,https://www.thecarconnection.com/specifications/ford_escape_2009,15,ok
+Ford,Escape,2010,https://www.thecarconnection.com/specifications/ford_escape_2010,10,ok
+Ford,Escape,2011,https://www.thecarconnection.com/specifications/ford_escape_2011,10,ok
+Ford,Escape,2012,https://www.thecarconnection.com/specifications/ford_escape_2012,9,ok
+Ford,Escape,2013,https://www.thecarconnection.com/specifications/ford_escape_2013,7,ok
+Ford,Escape,2014,https://www.thecarconnection.com/specifications/ford_escape_2014,5,ok
+Ford,Escape,2015,https://www.thecarconnection.com/specifications/ford_escape_2015,5,ok
+Ford,Escape,2016,https://www.thecarconnection.com/specifications/ford_escape_2016,5,ok
+Ford,Escape,2017,https://www.thecarconnection.com/specifications/ford_escape_2017,5,ok
+Ford,Escape,2018,https://www.thecarconnection.com/specifications/ford_escape_2018,7,ok
+Ford,Escape,2019,https://www.thecarconnection.com/specifications/ford_escape_2019,7,ok
+Ford,Escape,2020,https://www.thecarconnection.com/specifications/ford_escape_2020,14,ok
+Ford,Escape,2021,https://www.thecarconnection.com/specifications/ford_escape_2021,16,ok
+Ford,Escape,2022,https://www.thecarconnection.com/specifications/ford_escape_2022,16,ok
+Ford,Escape,2024,https://www.thecarconnection.com/specifications/ford_escape_2024,9,ok
+Ford,Escape,2025,https://www.thecarconnection.com/specifications/ford_escape_2025,9,ok
+Ford,Explorer,2005,https://www.thecarconnection.com/specifications/ford_explorer_2005,28,ok
+Ford,Explorer,2006,https://www.thecarconnection.com/specifications/ford_explorer_2006,14,ok
+Ford,Explorer,2007,https://www.thecarconnection.com/specifications/ford_explorer_2007,20,ok
+Ford,Explorer,2008,https://www.thecarconnection.com/specifications/ford_explorer_2008,26,ok
+Ford,Explorer,2009,https://www.thecarconnection.com/specifications/ford_explorer_2009,28,ok
+Ford,Explorer,2010,https://www.thecarconnection.com/specifications/ford_explorer_2010,13,ok
+Ford,Explorer,2011,https://www.thecarconnection.com/specifications/ford_explorer_2011,6,ok
+Ford,Explorer,2012,https://www.thecarconnection.com/specifications/ford_explorer_2012,6,ok
+Ford,Explorer,2013,https://www.thecarconnection.com/specifications/ford_explorer_2013,7,ok
+Ford,Explorer,2014,https://www.thecarconnection.com/specifications/ford_explorer_2014,7,ok
+Ford,Explorer,2015,https://www.thecarconnection.com/specifications/ford_explorer_2015,7,ok
+Ford,Explorer,2016,https://www.thecarconnection.com/specifications/ford_explorer_2016,8,ok
+Ford,Explorer,2017,https://www.thecarconnection.com/specifications/ford_explorer_2017,8,ok
+Ford,Explorer,2018,https://www.thecarconnection.com/specifications/ford_explorer_2018,8,ok
+Ford,Explorer,2019,https://www.thecarconnection.com/specifications/ford_explorer_2019,8,ok
+Ford,Explorer,2020,https://www.thecarconnection.com/specifications/ford_explorer_2020,8,ok
+Ford,Explorer,2021,https://www.thecarconnection.com/specifications/ford_explorer_2021,12,ok
+Ford,Explorer,2022,https://www.thecarconnection.com/specifications/ford_explorer_2022,15,ok
+Ford,Explorer,2023,https://www.thecarconnection.com/specifications/ford_explorer_2023,15,ok
+Ford,Explorer,2025,https://www.thecarconnection.com/specifications/ford_explorer_2025,8,ok
+Ford,F-150,2005,https://www.thecarconnection.com/specifications/ford_f-150_2005,48,ok
+Ford,F-150,2006,https://www.thecarconnection.com/specifications/ford_f-150_2006,60,ok
+Ford,F-150,2007,https://www.thecarconnection.com/specifications/ford_f-150_2007,64,ok
+Ford,F-150,2008,https://www.thecarconnection.com/specifications/ford_f-150_2008,81,ok
+Ford,F-150,2009,https://www.thecarconnection.com/specifications/ford_f-150_2009,72,ok
+Ford,F-150,2010,https://www.thecarconnection.com/specifications/ford_f-150_2010,59,ok
+Ford,F-150,2011,https://www.thecarconnection.com/specifications/ford_f-150_2011,58,ok
+Ford,F-150,2012,https://www.thecarconnection.com/specifications/ford_f-150_2012,66,ok
+Ford,F-150,2013,https://www.thecarconnection.com/specifications/ford_f-150_2013,65,ok
+Ford,F-150,2014,https://www.thecarconnection.com/specifications/ford_f-150_2014,69,ok
+Ford,F-150,2015,https://www.thecarconnection.com/specifications/ford_f-150_2015,56,ok
+Ford,F-150,2016,https://www.thecarconnection.com/specifications/ford_f-150_2016,42,ok
+Ford,F-150,2017,https://www.thecarconnection.com/specifications/ford_f-150_2017,44,ok
+Ford,F-150,2018,https://www.thecarconnection.com/specifications/ford_f-150_2018,44,ok
+Ford,F-150,2019,https://www.thecarconnection.com/specifications/ford_f-150_2019,44,ok
+Ford,F-150,2020,https://www.thecarconnection.com/specifications/ford_f-150_2020,44,ok
+Ford,F-150,2021,https://www.thecarconnection.com/specifications/ford_f-150_2021,44,ok
+Ford,F-150,2022,https://www.thecarconnection.com/specifications/ford_f-150_2022,44,ok
+Ford,F-150,2023,https://www.thecarconnection.com/specifications/ford_f-150_2023,39,ok
+Ford,F-150,2024,https://www.thecarconnection.com/specifications/ford_f-150_2024,26,ok
+Toyota,Camry,2005,https://www.thecarconnection.com/specifications/toyota_camry_2005,20,ok
+Toyota,Camry,2006,https://www.thecarconnection.com/specifications/toyota_camry_2006,20,ok
+Toyota,Camry,2007,https://www.thecarconnection.com/specifications/toyota_camry_2007,22,ok
+Toyota,Camry,2008,https://www.thecarconnection.com/specifications/toyota_camry_2008,22,ok
+Toyota,Camry,2009,https://www.thecarconnection.com/specifications/toyota_camry_2009,11,ok
+Toyota,Camry,2010,https://www.thecarconnection.com/specifications/toyota_camry_2010,11,ok
+Toyota,Camry,2011,https://www.thecarconnection.com/specifications/toyota_camry_2011,11,ok
+Toyota,Camry,2012,https://www.thecarconnection.com/specifications/toyota_camry_2012,9,ok
+Toyota,Camry,2013,https://www.thecarconnection.com/specifications/toyota_camry_2013,8,ok
+Toyota,Camry,2014,https://www.thecarconnection.com/specifications/toyota_camry_2014,19,ok
+Toyota,Camry,2015,https://www.thecarconnection.com/specifications/toyota_camry_2015,9,ok
+Toyota,Camry,2016,https://www.thecarconnection.com/specifications/toyota_camry_2016,10,ok
+Toyota,Camry,2017,https://www.thecarconnection.com/specifications/toyota_camry_2017,9,ok
+Toyota,Camry,2018,https://www.thecarconnection.com/specifications/toyota_camry_2018,10,ok
+Toyota,Camry,2019,https://www.thecarconnection.com/specifications/toyota_camry_2019,10,ok
+Toyota,Camry,2020,https://www.thecarconnection.com/specifications/toyota_camry_2020,17,ok
+Toyota,Camry,2021,https://www.thecarconnection.com/specifications/toyota_camry_2021,17,ok
+Toyota,Camry,2022,https://www.thecarconnection.com/specifications/toyota_camry_2022,18,ok
+Toyota,Camry,2023,https://www.thecarconnection.com/specifications/toyota_camry_2023,18,ok
+Toyota,Camry,2024,https://www.thecarconnection.com/specifications/toyota_camry_2024,18,ok
+Toyota,Camry,2025,https://www.thecarconnection.com/specifications/toyota_camry_2025,6,ok
+Toyota,Camry,2026,https://www.thecarconnection.com/specifications/toyota_camry_2026,8,ok
+Toyota,Corolla,2005,https://www.thecarconnection.com/specifications/toyota_corolla_2005,7,ok
+Toyota,Corolla,2006,https://www.thecarconnection.com/specifications/toyota_corolla_2006,7,ok
+Toyota,Corolla,2007,https://www.thecarconnection.com/specifications/toyota_corolla_2007,6,ok
+Toyota,Corolla,2008,https://www.thecarconnection.com/specifications/toyota_corolla_2008,6,ok
+Toyota,Corolla,2009,https://www.thecarconnection.com/specifications/toyota_corolla_2009,8,ok
+Toyota,Corolla,2010,https://www.thecarconnection.com/specifications/toyota_corolla_2010,8,ok
+Toyota,Corolla,2011,https://www.thecarconnection.com/specifications/toyota_corolla_2011,5,ok
+Toyota,Corolla,2012,https://www.thecarconnection.com/specifications/toyota_corolla_2012,5,ok
+Toyota,Corolla,2013,https://www.thecarconnection.com/specifications/toyota_corolla_2013,7,ok
+Toyota,Corolla,2014,https://www.thecarconnection.com/specifications/toyota_corolla_2014,12,ok
+Toyota,Corolla,2015,https://www.thecarconnection.com/specifications/toyota_corolla_2015,12,ok
+Toyota,Corolla,2016,https://www.thecarconnection.com/specifications/toyota_corolla_2016,13,ok
+Toyota,Corolla,2017,https://www.thecarconnection.com/specifications/toyota_corolla_2017,11,ok
+Toyota,Corolla,2018,https://www.thecarconnection.com/specifications/toyota_corolla_2018,10,ok
+Toyota,Corolla,2019,https://www.thecarconnection.com/specifications/toyota_corolla_2019,12,ok
+Toyota,Corolla,2020,https://www.thecarconnection.com/specifications/toyota_corolla_2020,13,ok
+Toyota,Corolla,2021,https://www.thecarconnection.com/specifications/toyota_corolla_2021,16,ok
+Toyota,Corolla,2022,https://www.thecarconnection.com/specifications/toyota_corolla_2022,16,ok
+Toyota,Corolla,2023,https://www.thecarconnection.com/specifications/toyota_corolla_2023,12,ok
+Toyota,Corolla,2024,https://www.thecarconnection.com/specifications/toyota_corolla_2024,14,ok
+Toyota,Corolla,2025,https://www.thecarconnection.com/specifications/toyota_corolla_2025,12,ok
+Toyota,Corolla,2026,https://www.thecarconnection.com/specifications/toyota_corolla_2026,11,ok
+Toyota,RAV4,2005,https://www.thecarconnection.com/specifications/toyota_rav4_2005,4,ok
+Toyota,RAV4,2006,https://www.thecarconnection.com/specifications/toyota_rav4_2006,12,ok
+Toyota,RAV4,2007,https://www.thecarconnection.com/specifications/toyota_rav4_2007,12,ok
+Toyota,RAV4,2008,https://www.thecarconnection.com/specifications/toyota_rav4_2008,12,ok
+Toyota,RAV4,2009,https://www.thecarconnection.com/specifications/toyota_rav4_2009,12,ok
+Toyota,RAV4,2010,https://www.thecarconnection.com/specifications/toyota_rav4_2010,12,ok
+Toyota,RAV4,2011,https://www.thecarconnection.com/specifications/toyota_rav4_2011,12,ok
+Toyota,RAV4,2012,https://www.thecarconnection.com/specifications/toyota_rav4_2012,13,ok
+Toyota,RAV4,2013,https://www.thecarconnection.com/specifications/toyota_rav4_2013,7,ok
+Toyota,RAV4,2014,https://www.thecarconnection.com/specifications/toyota_rav4_2014,7,ok
+Toyota,RAV4,2015,https://www.thecarconnection.com/specifications/toyota_rav4_2015,6,ok
+Toyota,RAV4,2016,https://www.thecarconnection.com/specifications/toyota_rav4_2016,10,ok
+Toyota,RAV4,2017,https://www.thecarconnection.com/specifications/toyota_rav4_2017,13,ok
+Toyota,RAV4,2018,https://www.thecarconnection.com/specifications/toyota_rav4_2018,16,ok
+Toyota,RAV4,2019,https://www.thecarconnection.com/specifications/toyota_rav4_2019,13,ok
+Toyota,RAV4,2020,https://www.thecarconnection.com/specifications/toyota_rav4_2020,14,ok
+Toyota,RAV4,2021,https://www.thecarconnection.com/specifications/toyota_rav4_2021,16,ok
+Toyota,RAV4,2022,https://www.thecarconnection.com/specifications/toyota_rav4_2022,17,ok
+Toyota,RAV4,2023,https://www.thecarconnection.com/specifications/toyota_rav4_2023,18,ok
+Toyota,RAV4,2024,https://www.thecarconnection.com/specifications/toyota_rav4_2024,18,ok
+Toyota,RAV4,2025,https://www.thecarconnection.com/specifications/toyota_rav4_2025,15,ok
+Toyota,RAV4,2026,https://www.thecarconnection.com/specifications/toyota_rav4_2026,9,ok
+Chevrolet,Equinox,2006,https://www.thecarconnection.com/specifications/chevrolet_equinox_2006,4,ok

@@ -1,0 +1,19 @@
+source,make,model,listings
+craigslist,Chevrolet,Equinox,70
+craigslist,Chevrolet,Malibu,69
+craigslist,Chevrolet,Silverado 1500,70
+craigslist,Ford,Escape,69
+craigslist,Ford,Explorer,67
+craigslist,Ford,F-150,70
+craigslist,Toyota,Camry,71
+craigslist,Toyota,Corolla,59
+craigslist,Toyota,RAV4,67
+offerup,Chevrolet,Equinox,67
+offerup,Chevrolet,Malibu,62
+offerup,Chevrolet,Silverado 1500,64
+offerup,Ford,Escape,71
+offerup,Ford,Explorer,63
+offerup,Ford,F-150,69
+offerup,Toyota,Camry,61
+offerup,Toyota,Corolla,66
+offerup,Toyota,RAV4,70

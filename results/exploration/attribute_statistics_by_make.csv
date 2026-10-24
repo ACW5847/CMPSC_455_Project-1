@@ -1,0 +1,6 @@
+,listing_price,listing_price,listing_price,listing_price,listing_price,listing_price,mileage,mileage,mileage,mileage,mileage,mileage,model_year,model_year,model_year,model_year,model_year,model_year
+,count,mean,median,std,min,max,count,mean,median,std,min,max,count,mean,median,std,min,max
+make,,,,,,,,,,,,,,,,,,
+Chevrolet,449,9431.47,7000.0,8066.83,123.0,60000.0,449,2879418.1,130000.0,58255686.44,97.0,1234543610.0,449,2012.98,2013.0,6.53,2005.0,2026.0
+Ford,450,9178.92,6500.0,8201.48,1.0,51746.0,450,133849.08,137263.0,60505.27,143.0,400000.0,450,2012.3,2013.0,6.17,2005.0,2025.0
+Toyota,446,10594.98,7995.0,8440.14,1.0,64000.0,446,128481.04,132578.0,66127.44,82.0,412353.0,446,2012.99,2012.0,6.69,2005.0,2026.0

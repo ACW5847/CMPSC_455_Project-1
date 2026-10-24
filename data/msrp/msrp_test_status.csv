@@ -1,0 +1,9 @@
+make,model,model_year,source_url,configurations,status
+Toyota,Camry,2005,https://www.thecarconnection.com/specifications/toyota_camry_2005,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/toyota_camry_20
+Ford,F-150,2005,https://www.thecarconnection.com/specifications/ford_f-150_2005,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/ford_f-150_2005
+Chevrolet,Silverado 1500,2022,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2022,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/chevrolet_silve
+Toyota,RAV4,2025,https://www.thecarconnection.com/specifications/toyota_rav4_2025,0,request failed: 403 Client Error: Forbidden for url: https://www.thecarconnection.com/specifications/toyota_rav4_202
+Toyota,Camry,2005,https://www.thecarconnection.com/specifications/toyota_camry_2005,20,ok
+Ford,F-150,2005,https://www.thecarconnection.com/specifications/ford_f-150_2005,48,ok
+Chevrolet,Silverado 1500,2022,https://www.thecarconnection.com/specifications/chevrolet_silverado-1500_2022,0,unexpected page title
+Toyota,RAV4,2025,https://www.thecarconnection.com/specifications/toyota_rav4_2025,15,ok
